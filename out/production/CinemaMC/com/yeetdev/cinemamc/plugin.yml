@@ -1,0 +1,14 @@
+name: CinemaMC
+author: Parker
+main: com.yeetdev.cinemamc.Main
+version: 0.1
+description: CinemaMC Core
+commands:
+  build:
+    aliases: [gamemode, gm]
+  fly:
+  spy:
+  setrank:
+  ranks:
+  tp:
+  tpall:

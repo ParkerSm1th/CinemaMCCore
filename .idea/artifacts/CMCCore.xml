@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CMCCore">
+    <output-path>$PROJECT_DIR$/out/artifacts/CMCCore</output-path>
+    <root id="archive" name="CMCCore.jar">
+      <element id="module-output" name="CinemaMC" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/com/yeetdev/cinemamc/plugin.yml" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
