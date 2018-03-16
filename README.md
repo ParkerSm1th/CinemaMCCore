@@ -1,0 +1,3 @@
+# CinemaMCCore
+
+Core for CinemaMC
